@@ -1,7 +1,7 @@
 ## Hi there, I'm **Jo** 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/FzJo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/jfenza/) 
 ### I am a newbie in this Big Tech World
-![I am a newbie in this Big Tech World](./images/jofz_github_banner_smaller.png)
+![I am a newbie in this Big Tech World](./jofz_github_banner_smaller.png)
 
 ### **Seriousness** and a lot of The Office(US) humor characterize me
 
