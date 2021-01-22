@@ -12,5 +12,5 @@ I aspire to work for a company with strong values ​​and to develop applicati
 
 * 👨‍💻 I’m currently working on these Skills : HTML5 / CSS3 / PHP / JS 
 * 📖 Next I would like to learn React or Vue
-* 🔭 Next to the next humbly become a (good) developer never stop to learn
+* 🔭 Next to the next humbly become a (good) developer never stop learning
 
